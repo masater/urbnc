@@ -3,7 +3,7 @@
 ![Foot Model](imgs/foot_model.png) ![Sole Design](imgs/sole_model.png)
 *Images will be uploaded shortly*
 
-Urbnc3 is a startup focusing on customized supportive foot wear, I am a Co-Founder of.
+[Urbnc3](https://urbnc3.com/) is a startup focusing on customized supportive foot wear, I am a Co-Founder of.
 
 Normal shoes have flat insoles - the same for everyone. Now when is the last time you met someone with the same foot as you? Never.
 All feet are different and most of them would need individual support. In the past this was not possible, as individual adaptation required huge efforts and time of experts. With Urbnc3 this changed. We combine AI reconstruction with heuristic algorithms and 3d-Printing to offer the right support for every foot!
