@@ -21,7 +21,7 @@ We have a specialized suit of products:
 - The combination of both.
 
 
-## May contribution
+## My contribution
 
 ### The Tech-stack 
 Each pair designed by hand from the foot model took 4-5 hours prior to my algorithm. The algorithm I developed generates precise, anatomically accurate models in 1.5-2.5 seconds on a standard laptop. That is an improvent by about 4 orders of magnitude, or 10'000 times faster.
