@@ -2,7 +2,7 @@
 
 ## Revolutionary Custom Footwear Technology
 
-[Urbnc3](https://urbnc3.com/) is a startup focusing on customized supportive footwear, where I am a Co-Founder.
+[Urbnc3](https://urbnc3.com/) is a startup focusing on customized supportive footwear, where I functioned as a technical Co-Founder.
 
 Normal shoes have flat insoles - the same for everyone. Now when is the last time you met someone with the same foot as you? Never.
 All feet are different and most of them would need individual support. In the past this was not possible, as individual adaptation required huge efforts and time of experts. With Urbnc3 this changed. We combine AI reconstruction with heuristic algorithms and 3D-Printing to offer the right support for every foot!
@@ -28,7 +28,7 @@ The final step involves 3D printing your custom insoles using specialized elasti
 ![Custom Sandals - Side View](imgs/shoe_side_view.jpeg)
 ![Custom Sandals - Relief Visibility](imgs/shoe_relief_visibility.jpeg)
 ![Custom Sandals - Top View](imgs/shoes_top_view.jpeg)
-
+These were the first beta products produced with the algorithms.
 ## Our Product Suite
 
 **Private Customers**:
